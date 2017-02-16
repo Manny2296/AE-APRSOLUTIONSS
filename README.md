@@ -8,7 +8,7 @@ Convenciones
 ------------------------------------------------------
 Se manejara la siguiente convención para los comentarios, descripciones y notas de publicación de los commits al repositorio:
 ```javascript
- AE APRSOLUTIONSS / Master – Versión 1.0.0
+ AE APRSOLUTIONSS / Master – Versión 1.0.-
 
  * Added: 
  * Fixed: 
