@@ -14,12 +14,12 @@ Se manejara la siguiente convención para los comentarios, descripciones y notas
  * Fixed: 
  * Improved: 
  * Removed: 
- */
+ 
  
 Nota para tener en cuenta:
-+Added: Funciones o cambios agregados.
-+Fixed: Errores reparados.
-+Improved: Funciones, sistemas, procesos que han sido mejoradas.
++ Added: Funciones o cambios agregados.
++ Fixed: Errores reparados.
++ Improved: Funciones, sistemas, procesos que han sido mejoradas.
 
 
 Integrantes : 
