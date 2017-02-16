@@ -7,8 +7,8 @@ APRSOLUTIONSS es una empresa dedicada a la administración, desarrollo e impleme
 Convenciones
 ------------------------------------------------------
 Se manejara la siguiente convención para los comentarios, descripciones y notas de publicación de los commits al repositorio:
-
-/** AE APRSOLUTIONSS / Master – Versión 1.0.0
+```javascript
+ AE APRSOLUTIONSS / Master – Versión 1.0.0
 
  * Added: 
  * Fixed: 
@@ -20,9 +20,10 @@ Nota para tener en cuenta:
 + Added: Funciones o cambios agregados.
 + Fixed: Errores reparados.
 + Improved: Funciones, sistemas, procesos que han sido mejoradas.
-
+```
 
 Integrantes : 
 -------------------------------------
-   Manuel F Sanchez Riaño
-   Danilo Alejandro Villaraga
+  + Manuel F Sanchez Riaño
+  + Danilo Alejandro Villaraga
+  + Gabriel Peña Nuvia
