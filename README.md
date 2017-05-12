@@ -22,7 +22,7 @@ Nota para tener en cuenta:
 + Improved: Funciones, sistemas, procesos que han sido mejoradas.
 ```
 Proceso de Negocio Bonita BPM, AWS : 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://www.youtube.com/watch?v=bPOQvheg1ts "Everything Is AWESOME")
 
 Integrantes : 
 -------------------------------------
