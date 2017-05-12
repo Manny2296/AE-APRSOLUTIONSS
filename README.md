@@ -25,7 +25,7 @@ Proceso de Negocio Bonita BPM, AWS APRSOLUTIONSS:
 Nombre : Solicitud de Proyecto. 
 # Dar Click en la Imagen para ver el Video del proceso 
 
-[![Everything Is AWESOME](https://d7umqicpi7263.cloudfront.net/img/product/183f16ba-b858-4cbc-9308-fed856e46225/9ebb37bc-9866-4403-9df6-dd86081fe481.png)](https://www.youtube.com/watch?v=bPOQvheg1ts "Everything Is AWESOME")
+[![Everything Is AWESOME](https://i.ytimg.com/vi/pMAhArRPh0M/maxresdefault.jpg)](https://www.youtube.com/watch?v=bPOQvheg1ts "Everything Is AWESOME")
 
 Integrantes : 
 -------------------------------------
